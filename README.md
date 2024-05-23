@@ -1,6 +1,7 @@
 <h1 align="center"> Conversor de moedas - Programa One T6 </h1>
 
-![Badge_Conversor_de_Moedas](https://github.com/lucas-smacedo/Conversor-de-moedas/blob/master/Badge-Conversor.png)
+<img align="center" src="https://github.com/lucas-smacedo/Conversor-de-moedas/blob/master/Badge-Conversor.png" alt="Badge_Conversor_de_Moedas">
+
 
 
 Descrição do projeto:
