@@ -1,5 +1,7 @@
 <h1 align="center"> Conversor de moedas - Programa One T6 </h1>
 
+![Badge_Conversor_de_Moedas](https://github.com/lucas-smacedo/Conversor-de-moedas/blob/master/Badge-Conversor.png)
+
 
 Descrição do projeto:
 Projeto Conversor digital de moedas que utliza a linguagem Java para processar a entrada de dados do usuário para converter uma moeda em outra utilizando valores atualizados em tempo real pela API Exchange Rate.
